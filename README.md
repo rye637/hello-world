@@ -1,2 +1,5 @@
 # hello-world
-1st repository
+
+Hi Fellow Coders!
+
+Ryan here, tells very bad dad jokes but gets away with them as I have a laugh that everyone laughs at.
